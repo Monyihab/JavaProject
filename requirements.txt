@@ -1,0 +1,12 @@
+# Supermarket Management System - Requirements
+# No external dependencies required
+# Uses only Python standard library (Python 3.6+)
+
+# Development dependencies (optional)
+# For code formatting and linting:
+# black>=21.0
+# flake8>=3.9
+# pylint>=2.8
+
+# This project is dependency-free and requires only:
+# - Python 3.6 or higher
